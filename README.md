@@ -12,7 +12,7 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
 * Build a class to represent the concept of the stack.
 * Use Stack in a non-recursion function. 
 * Export the movement of the plates and the number of moves
-* Using OpenGL librar
+* Using OpenGL library
 * Application of the OpenGL library and showing the movement of the forks from pile to pile.
 
 ## Result
