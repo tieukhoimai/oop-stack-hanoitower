@@ -16,9 +16,9 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
 * Application of the OpenGL library and showing the movement of the forks from pile to pile.
 
 ## Result
-![result1][https://github.com/tieukhoimai/oophanoitower/blob/master/result1.png]
-![result2][https://github.com/tieukhoimai/oophanoitower/blob/master/result2.png]
-![result3][https://github.com/tieukhoimai/oophanoitower/blob/master/result3.png]
+![result1](https://github.com/tieukhoimai/oophanoitower/blob/master/result1.png)
+![result2](https://github.com/tieukhoimai/oophanoitower/blob/master/result2.png)
+![result3](https://github.com/tieukhoimai/oophanoitower/blob/master/result3.png)
 
 ## Reference
 1.	Ammar Midani Ammar, Dima Yazji Dima (2018), Supervised: Dr. Ghassan Kwaiter, Tower Of Hanoi - Computer Graphics, Syrian Virtual University.
